@@ -1,10 +1,11 @@
 # LLM-Study
 ## 前言（Introduction）
 
-## LLM
+## LLM (Large Language Model)
 
-## VLM
+## VLM (Vision Language Model)
 
-## NLP基础
+## NLP基础 (Natural Language Processing)
 
-## CV模型
+## CV模型 (Computer Vision)
+
